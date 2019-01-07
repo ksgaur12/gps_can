@@ -1,6 +1,6 @@
 [submodule "modules/framework"]
-    path = modules/framework
-    url = git@github.com/ksgaur12/framework.git
+	path = modules/framework
+	url = https://github.com/ksgaur12/framework.git
 [submodule "modules/bootloader"]
     path = modules/bootloader
     url = git@github.com:ksgaur12/bootloader.git
